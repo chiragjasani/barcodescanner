@@ -124,7 +124,7 @@ subprojects {
                     configurations = ['archives']
                     pkg {
                         repo = 'maven'
-                        name = 'me.dm7.barcodescanner:' + project.pomArtifactId
+                        name = 'me.dm77.barcodescanner:' + project.pomArtifactId
                         desc = 'Barcode Scanner Libraries for Android'
                         websiteUrl = 'https://github.com/chiragjasani/barcodescanner'
                         vcsUrl = 'https://github.com/chiragjasani/barcodescanner.git'
