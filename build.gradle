@@ -72,9 +72,9 @@ subprojects {
                             url 'https://github.com/chiragjasani/barcodescanner'
 
                             scm {
-                                url 'scm:git@github.com:dm77/barcodescanner.git'
-                                connection 'scm:git@github.com:dm77/barcodescanner.git'
-                                developerConnection 'scm:git@github.com:dm77/barcodescanner.git'
+                                url 'scm:git@github.com:chiragjasani/barcodescanner.git'
+                                connection 'scm:git@github.com:chiragjasani/barcodescanner.git'
+                                developerConnection 'scm:git@github.com:chiragjasani/barcodescanner.git'
                             }
 
                             licenses {
@@ -87,7 +87,7 @@ subprojects {
 
                             developers {
                                 developer {
-                                    id 'dm77'
+                                    id 'chiragjasani'
                                     name 'Chirag Jasani'
                                     email 'jasani.chirag105@gmail.com'
                                 }
